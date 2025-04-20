@@ -29,8 +29,8 @@ IGuiPage
 	{
 		id: q486539299
 		objId: 486539299
-		x: 1
-		y: 52
+		x: 321
+		y: 1
 		width: 159
 		height: 47
 		qm_BorderCornerRadius: 3
@@ -55,9 +55,9 @@ IGuiPage
 	{
 		id: q469762048
 		objId: 469762048
-		x: 165
-		y: 43
-		width: 622
+		x: 0
+		y: 49
+		width: 800
 		height: 431
 		qm_BorderCornerRadius: 4
 		qm_BorderWidth: 1
@@ -69,7 +69,7 @@ IGuiPage
 		rulerVisibility: true
 		qm_TrendXPos: 2
 		qm_TrendYPos: 2
-		qm_TrendWidth: 618
+		qm_TrendWidth: 796
 		qm_TrendHeight: 312
 		IGuiListCtrl
 		{
@@ -77,7 +77,7 @@ IGuiPage
 			objectName: "qu469762048"
 			x: 6
 			y: 360
-			width: 610
+			width: 788
 			height: 65
 			qm_list.qm_linesPerRow: 1
 			qm_list.qm_tableRowHeight: 18
@@ -101,14 +101,14 @@ IGuiPage
 			qm_list.qm_gridLineWidth: 1
 			qm_list.qm_gridLineColor: "#ffffffff"
 			qm_columnTypeList: [0, 0, 0, 0]
-			totalColumnWidth: 576
+			totalColumnWidth: 754
 			qm_headerItem: qh469762048
 			IGuiListHeader
 			{
 				id: qh469762048
-				width: 576
+				width: 754
 				qm_listItem: qu469762048
-				qm_columnWidthList: [108, 120, 162, 186]
+				qm_columnWidthList: [286, 120, 162, 186]
 				color: "#ff84868c"
 				qm_tableHeaderTextColor: "#ffffffff"
 				qm_tableHeaderValueVarTextAlignmentHorizontal: Text.AlignLeft
@@ -303,7 +303,7 @@ IGuiPage
 		{
 			id: q486539320
 			objId: 486539320
-			x: 437
+			x: 615
 			y: 314
 			width: 56
 			height: 40
@@ -329,7 +329,7 @@ IGuiPage
 		{
 			id: q486539321
 			objId: 486539321
-			x: 498
+			x: 676
 			y: 314
 			width: 56
 			height: 40
@@ -355,7 +355,7 @@ IGuiPage
 		{
 			id: q486539322
 			objId: 486539322
-			x: 559
+			x: 737
 			y: 314
 			width: 56
 			height: 40
