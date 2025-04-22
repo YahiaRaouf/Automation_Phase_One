@@ -25,32 +25,6 @@ IGuiPage
 		qm_Anchors.rightMargin: 2
 		qm_Anchors.topMargin: 2
 	}
-	IGuiButton
-	{
-		id: q486539299
-		objId: 486539299
-		x: 321
-		y: 1
-		width: 159
-		height: 47
-		qm_BorderCornerRadius: 3
-		qm_BorderWidth: 1
-		qm_ImageSource: "image://QSmartImageProvider/21#2#4#128#0#0"
-		qm_Border.top: 15
-		qm_Border.bottom: 15
-		qm_Border.right: 5
-		qm_Border.left: 5
-		qm_FillColor: "#ffe7e3e7"
-		qm_TextColor: "#ff31344a"
-		qm_ValueVarTextAlignmentHorizontal: Text.AlignHCenter
-		qm_ValueVarTextAlignmentVertical: Text.AlignVCenter
-		qm_Anchors.bottomMargin: 1
-		qm_Anchors.leftMargin: 1
-		qm_Anchors.rightMargin: 1
-		qm_Anchors.topMargin: 1
-		qm_FocusWidth: 2
-		qm_FocusColor: "#ff94b6e7"
-	}
 	IGuiTrendView
 	{
 		id: q469762048
@@ -119,17 +93,17 @@ IGuiPage
 				qm_tableHeaderMarginTop: 1
 				qm_noOfColumns: 4
 				qm_tableHeaderHeight: 18
-				qm_leftImageID: 74
+				qm_leftImageID: 72
 				qm_leftTileTop: 4
 				qm_leftTileBottom: 15
 				qm_leftTileRight: 2
 				qm_leftTileLeft: 4
-				qm_middleImageID: 75
+				qm_middleImageID: 73
 				qm_middleTileTop: 2
 				qm_middleTileBottom: 15
 				qm_middleTileRight: 2
 				qm_middleTileLeft: 2
-				qm_rightImageID: 76
+				qm_rightImageID: 74
 				qm_rightTileTop: 4
 				qm_rightTileBottom: 15
 				qm_rightTileRight: 4
@@ -153,7 +127,59 @@ IGuiPage
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
+			qm_Border.top: 15
+			qm_Border.bottom: 15
+			qm_Border.right: 5
+			qm_Border.left: 5
+			qm_FillColor: "#ffefebef"
+			qm_FocusWidth: 2
+			qm_FocusColor: "#ff94b6e7"
+			qm_ImageFillMode:6
+			qm_ImagePossitionX: 4
+			qm_ImagePossitionY: 2
+			qm_ImageWidth: 50
+			qm_ImageHeight: 36
+			qm_SourceSizeWidth: 50
+			qm_SourceSizeHeight: 36
+		}
+		IGuiGraphicButton
+		{
+			id: q486539313
+			objId: 486539313
+			x: 68
+			y: 314
+			width: 56
+			height: 40
+			qm_BorderCornerRadius: 3
+			qm_BorderWidth: 1
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
+			qm_Border.top: 15
+			qm_Border.bottom: 15
+			qm_Border.right: 5
+			qm_Border.left: 5
+			qm_FillColor: "#ffefebef"
+			qm_FocusWidth: 2
+			qm_FocusColor: "#ff94b6e7"
+			qm_ImageFillMode:6
+			qm_ImagePossitionX: 4
+			qm_ImagePossitionY: 2
+			qm_ImageWidth: 50
+			qm_ImageHeight: 36
+			qm_SourceSizeWidth: 50
+			qm_SourceSizeHeight: 36
+		}
+		IGuiGraphicButton
+		{
+			id: q486539314
+			objId: 486539314
+			x: 129
+			y: 314
+			width: 56
+			height: 40
+			qm_BorderCornerRadius: 3
+			qm_BorderWidth: 1
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -173,13 +199,13 @@ IGuiPage
 		{
 			id: q486539315
 			objId: 486539315
-			x: 68
+			x: 190
 			y: 314
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -199,13 +225,13 @@ IGuiPage
 		{
 			id: q486539316
 			objId: 486539316
-			x: 129
+			x: 251
 			y: 314
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -225,13 +251,13 @@ IGuiPage
 		{
 			id: q486539317
 			objId: 486539317
-			x: 190
+			x: 312
 			y: 314
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -251,13 +277,13 @@ IGuiPage
 		{
 			id: q486539318
 			objId: 486539318
-			x: 251
+			x: 615
 			y: 314
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -277,13 +303,13 @@ IGuiPage
 		{
 			id: q486539319
 			objId: 486539319
-			x: 312
+			x: 676
 			y: 314
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
@@ -303,65 +329,13 @@ IGuiPage
 		{
 			id: q486539320
 			objId: 486539320
-			x: 615
-			y: 314
-			width: 56
-			height: 40
-			qm_BorderCornerRadius: 3
-			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
-			qm_Border.top: 15
-			qm_Border.bottom: 15
-			qm_Border.right: 5
-			qm_Border.left: 5
-			qm_FillColor: "#ffefebef"
-			qm_FocusWidth: 2
-			qm_FocusColor: "#ff94b6e7"
-			qm_ImageFillMode:6
-			qm_ImagePossitionX: 4
-			qm_ImagePossitionY: 2
-			qm_ImageWidth: 50
-			qm_ImageHeight: 36
-			qm_SourceSizeWidth: 50
-			qm_SourceSizeHeight: 36
-		}
-		IGuiGraphicButton
-		{
-			id: q486539321
-			objId: 486539321
-			x: 676
-			y: 314
-			width: 56
-			height: 40
-			qm_BorderCornerRadius: 3
-			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
-			qm_Border.top: 15
-			qm_Border.bottom: 15
-			qm_Border.right: 5
-			qm_Border.left: 5
-			qm_FillColor: "#ffefebef"
-			qm_FocusWidth: 2
-			qm_FocusColor: "#ff94b6e7"
-			qm_ImageFillMode:6
-			qm_ImagePossitionX: 4
-			qm_ImagePossitionY: 2
-			qm_ImageWidth: 50
-			qm_ImageHeight: 36
-			qm_SourceSizeWidth: 50
-			qm_SourceSizeHeight: 36
-		}
-		IGuiGraphicButton
-		{
-			id: q486539322
-			objId: 486539322
 			x: 737
 			y: 314
 			width: 56
 			height: 40
 			qm_BorderCornerRadius: 3
 			qm_BorderWidth: 1
-			qm_ImageSource: "image://QSmartImageProvider/77#2#4#128#0#0"
+			qm_ImageSource: "image://QSmartImageProvider/75#2#4#128#0#0"
 			qm_Border.top: 15
 			qm_Border.bottom: 15
 			qm_Border.right: 5
